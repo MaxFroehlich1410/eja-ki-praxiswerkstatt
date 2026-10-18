@@ -1,0 +1,14 @@
+Bereich;Posten;Menge;Einzelpreis in EUR;Gesamt in EUR;Status oder Quelle
+Ausgabe;Material;;;;
+Ausgabe;Honorare;;;;
+Ausgabe;Raum oder Technik;;;;
+Ausgabe;Weitere notwendige Kosten;;;;
+Ausgabe;Gesamtkosten;;;;Höchstens 2000 EUR - Übungsvorgabe
+Finanzierung;Feste Eigenmittel;1;200,00;200,00;Gesichert im Übungsszenario
+Finanzierung;Spende;1;200,00;200,00;Gesichert im Übungsszenario - Teil der 400 EUR Eigenmittel
+Finanzierung;Beantragte BuntStiftung-Förderung;;;;Beantragt - nicht bewilligt
+Finanzierung;Weitere Mittel;;;;Gesichert oder beantragt eindeutig kennzeichnen
+Finanzierung;Finanzierung gesamt;;;;
+Prüfung;Differenz Gesamtkosten minus Finanzierung;;;;Muss in der Planung 0 ergeben - keine automatische Berechnung
+
+Hinweis;Keine Formeln hinterlegt. Summen selbst prüfen. Eine ausgeglichene Planung ersetzt keine Förderzusage.;;;;
