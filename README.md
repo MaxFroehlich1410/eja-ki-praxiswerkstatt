@@ -17,7 +17,13 @@ Dann `http://127.0.0.1:4173/` öffnen. Nicht die HTML-Datei direkt öffnen: Zwis
 - `#foerderantrag`: Aufgabe 2
 - `materialien/`: Originalantrag, Übungsdossier, Markdown-Vorlagen und CSV-Kostenpläne
 
-Ein gemeinsamer späterer QR-Code soll auf die Startseite zeigen. Noch keinen QR-Code auf eine vermutete Pages-Adresse erstellen: Erst die tatsächliche Live-Adresse nach Freigabe prüfen.
+Die Veröffentlichung wurde am 19.10.2026 freigegeben.
+
+Website: https://maxfroehlich1410.github.io/eja-ki-praxiswerkstatt/
+
+Der gemeinsame QR-Code in `assets/workshop-qr.png` und `assets/workshop-qr.svg` führt auf diese Startseite und erschließt beide Aufgaben. Der PNG-Code wurde mit einem unabhängigen Decoder überprüft.
+
+Aufgabe 1: 600 Euro Gesamtbudget einschließlich 60 Euro Reserve, also höchstens 540 Euro verplanbar. Optionale Zusatzrunde: 480 Euro einschließlich 48 Euro Reserve.
 
 Die Checklisten speichern ausschließlich im lokalen Browser. Bei gesperrtem Browserspeicher funktioniert die Seite weiterhin; der Fortschritt bleibt gegebenenfalls nur während der Sitzung erhalten. Keine Ergebnissammlung, kein KI-API-Schlüssel, keine externen Schrift-/Tracking-Aufrufe. Die mitgelieferte Schrift Poppins steht unter SIL OFL (siehe `assets/fonts/OFL.txt`).
 
@@ -30,9 +36,9 @@ BuntStiftung München:
 
 Der alte Originalantrag nennt Posteinreichung; die aktuelle Website beschreibt auch Online-Bewerbung. Diese Differenz wird in der Aufgabe ausdrücklich zur Prüfung gestellt. Keine Zusammenarbeit mit der Stiftung. Übungsdossier, Budgets, Träger und Kostenbausteine sind frei erfunden und keine Förderbedingungen. Keine Einreichung oder echte personenbezogene Daten im Workshop.
 
-## Veröffentlichung erst nach Freigabe
+## Veröffentlichung und spätere Aktualisierungen
 
-Der Workflow ist ausschließlich manuell auslösbar (`workflow_dispatch`). Ein Push löst keine Veröffentlichung aus. GitHub Pages ist vor Nutzerfreigabe nicht einzuschalten. Nach Freigabe gegebenenfalls Repository-Sichtbarkeit / GitHub-Plan prüfen, Pages auf GitHub Actions konfigurieren, Workflow manuell starten, Live-Adresse und Downloads überprüfen und erst dann den gemeinsamen QR-Code erzeugen.
+Das Repository ist öffentlich; GitHub Pages verwendet GitHub Actions. Der Workflow ist ausschließlich manuell auslösbar (`workflow_dispatch`). Ein Push löst keine Veröffentlichung aus. Nach freigegebenen Änderungen committen, pushen und den Workflow manuell starten. Anschließend die Live-Seite und Downloads prüfen. Der gemeinsame QR-Code bleibt bei unveränderter Website-Adresse gültig.
 
 ## Prüfung
 

@@ -30,14 +30,14 @@ Alle entscheidungsrelevanten Angaben selbst prüfen. Mindestens drei Schlüsself
 | 17:00 | Rückkehr in München | | |
 
 ## Kosten
-Für alle 12 Jugendlichen und 2 Betreuungspersonen. Maximal 315 Euro verplanen; mindestens 35 Euro Reserve.
+Für alle 12 Jugendlichen und 2 Betreuungspersonen. 600 Euro Gesamtbudget inklusive mindestens 60 Euro Reserve. Maximal 540 Euro verplanen.
 | Kostenposten | Menge | Preis je Einheit | Gesamt | Beleg / Annahme |
 |---|---|---|---|---|
 | Fahrt | | | | |
 | Eintritt | | | | |
 | Verpflegung | | | | |
 | Weitere notwendige Kosten | | | | |
-| Unberührte Reserve | 1 | 35,00 Euro | 35,00 Euro | Vorgabe |
+| Unberührte Reserve | 1 | 60,00 Euro | 60,00 Euro | Vorgabe |
 | Summe | | | | |
 
 ## Umsetzbare Alternative
