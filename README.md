@@ -13,9 +13,9 @@ Dann `http://127.0.0.1:4173/` öffnen. Nicht die HTML-Datei direkt öffnen: Zwis
 ## Inhalte
 
 - `#start`: Aufgabenübersicht
-- `#ausflug`: Aufgabe 1
-- `#foerderantrag`: Aufgabe 2
-- `#dokumente`: neue Aufgabe 3 zur siebenseitigen Dokumentanalyse (lokaler Entwurf, noch nicht veröffentlicht)
+- `#ausflug`: Aufgabe 2
+- `#foerderantrag`: Aufgabe 3
+- `#dokumente`: Aufgabe 1 zur siebenseitigen Dokumentanalyse (lokaler Entwurf, noch nicht veröffentlicht)
 - `materialien/`: Originalantrag, Übungsdossier, Markdown-Vorlagen und CSV-Kostenpläne
 
 Die Veröffentlichung wurde am 19.10.2026 freigegeben.
@@ -24,7 +24,7 @@ Website: https://maxfroehlich1410.github.io/eja-ki-praxiswerkstatt/
 
 Der gemeinsame QR-Code in `assets/workshop-qr.png` und `assets/workshop-qr.svg` führt auf diese Startseite und erschließt beide Aufgaben. Der PNG-Code wurde mit einem unabhängigen Decoder überprüft.
 
-Aufgabe 1: 600 Euro Gesamtbudget einschließlich 60 Euro Reserve, also höchstens 540 Euro verplanbar. Optionale Zusatzrunde: 480 Euro einschließlich 48 Euro Reserve.
+Aufgabe 2: 600 Euro Gesamtbudget einschließlich 60 Euro Reserve, also höchstens 540 Euro verplanbar. Optionale Zusatzrunde: 480 Euro einschließlich 48 Euro Reserve.
 
 Die Checklisten speichern ausschließlich im lokalen Browser. Bei gesperrtem Browserspeicher funktioniert die Seite weiterhin; der Fortschritt bleibt gegebenenfalls nur während der Sitzung erhalten. Keine Ergebnissammlung, kein KI-API-Schlüssel, keine externen Schrift-/Tracking-Aufrufe. Die mitgelieferte Schrift Poppins steht unter SIL OFL (siehe `assets/fonts/OFL.txt`).
 
@@ -56,9 +56,31 @@ Die Antwortvorlage liegt unter `materialien/arbeitsvorlage-dokumentanalyse.md`. 
 ## Überarbeitung: getrennte KI-Kompetenzen
 
 Lokal überarbeitet, noch nicht veröffentlicht:
-- Aufgabe 1: offene Recherche, iteratives Planen und Bildgestaltung; 600/60-EUR-Budget bleibt erhalten.
-- Aufgabe 2: vorbereitete Faktenbasis und ausgefüllte Musterfinanzierung; zuerst eigene Stichpunkte, dann drei Textfelder (600/900/600 Zeichen inklusive Leerzeichen), eigene Kriterienprüfung und zwei konkrete Änderungsaufträge. Keine verpflichtende PDF-Analyse oder Förderrecherche. `grant-task.js` enthält die Aufgabe. `materialien/zeichencounter.html` zählt die Zeichen lokal im Browser.
-- Aufgabe 3: fünf Aussagen mit Belegen prüfen, drei eigene Fragen ans PDF und zwei Prüfungen im Original; keine vollständige Kalkulation, kein Fristenplan oder Entscheidungstext. Das siebenseitige Quelldokument bleibt erhalten.
+- Aufgabe 2: offene Recherche, iteratives Planen und Bildgestaltung; 600/60-EUR-Budget bleibt erhalten.
+- Aufgabe 3: vorbereitete Faktenbasis und ausgefüllte Musterfinanzierung; eigene Projektidee, ein zusammenhängender Antragsentwurf mit drei Abschnitten (600/900/600 Zeichen inklusive Leerzeichen) sowie selbstständige Prüfung und Überarbeitung mit KI. Keine verpflichtende PDF-Analyse oder Förderrecherche. `grant-task.js` enthält die Aufgabe. `materialien/zeichencounter.html` zählt die Zeichen lokal im Browser.
+- Aufgabe 1: fünf Aussagen mit Belegen prüfen, drei eigene Fragen ans PDF und die Prüfung aller KI-Antworten im Original; keine vollständige Kalkulation, kein Fristenplan oder Entscheidungstext. Das siebenseitige Quelldokument bleibt erhalten.
 - Geänderte Checklisten verwenden eigene Versionsschlüssel, damit alte Häkchen keine anderen Anforderungen als erledigt markieren.
 
 Die Zeichenlimits und Bewertungskriterien sind ausdrücklich Workshopvorgaben. Kein neuer Live-Deploy ohne Freigabe.
+
+## Arbeitsform
+
+Alle drei Aufgaben werden vollständig in Einzelarbeit bearbeitet: eigener KI-Dialog, eigene Entscheidungen und eigenes Ergebnis. Keine Rollenverteilung oder parallele Teamarbeit. Der gemeinsame Austausch folgt nach der Arbeitsphase. Jugendgruppen und Betreuungsteams in den Szenarien bleiben fachlicher Kontext.
+
+Reihenfolge im lokalen Entwurf: Dokumentanalyse → Ausflugsplanung → Förderantrag. Die Dokumentanalyse zeigt den vollständigen Auftrag kompakt in vier Schritten; Hilfen und Selbstcheck sind aufklappbar. Die Quelle bleibt ein PDF mit insgesamt sieben Seiten.
+
+## Ausflugsvorlagen in vertrauten Dateiformaten
+
+Die Ausflugsplanung verlinkt eine bearbeitbare Word-Arbeitsvorlage (`materialien/arbeitsvorlage-ausflug.docx`, drei Seiten) und einen Excel-Kostenplan (`materialien/kostenplan-ausflug.xlsx`). Der Kostenplan berechnet Mengen mal Einzelpreise, Summen und verbleibenden Spielraum bei 600 Euro Gesamtbudget und 60 Euro Reserve. Leere Eingaben bleiben leer; bei unvollständigen Preisangaben erscheint ein Hinweis. Die bisherigen MD- und CSV-Quellen werden auf der Aufgabenseite nicht mehr angeboten.
+
+## Ausflugsaufgabe ohne Arbeitsvorlagen
+
+Die Ausflugsaufgabe bietet keine optionalen Downloads mehr an. Eigene Ideen und KI-Brainstorming sind von Beginn an erlaubt. Gefordert sind Kostenkalkulation, Ablaufplan einschließlich Betreuung und Regenalternative, Elterninformation als E-Mail-Entwurf oder DIN-A4-PDF sowie ein Flyer. Eine kurze Prüfnotiz hält Zielvergleich, Quellen, offene Punkte und eine KI-Korrektur fest. Die früheren Vorlagendateien bleiben als Arbeitsstand erhalten und werden nicht mehr verlinkt. Die Förderaufgabe behält ihre erforderliche Faktenbasis.
+
+## Förderaufgabe mit einer PDF-Faktenbasis
+
+Die Förderaufgabe bietet nur die benötigte zweiseitige Faktenbasis zum Download an. Optionale Arbeitsvorlage, separates Finanzierungs-CSV und Originalformular werden nicht mehr angeboten. Der Zeichenzähler bleibt als Werkzeug im Prüfschritt erreichbar. Ergebnis ist ein zusammenhängender, geprüfter Antragsentwurf mit drei Abschnitten und markierten offenen Angaben in einem Dokument. Nur die Endfassung wird festgehalten.
+
+## Freigegebene Veröffentlichung vom 20.10.2026
+
+Die aktuelle Fassung ist zur Veröffentlichung freigegeben: Dokumentanalyse als Aufgabe 1, Ausflugsplanung als Aufgabe 2 und ein zusammenhängender Förderantragsentwurf als Aufgabe 3. Alle Aufgaben sind Einzelarbeit. Die optionalen Vorlagen für Ausflug und Förderantrag werden nicht mehr angeboten; die benötigten PDF-Unterlagen bleiben verfügbar. Die öffentliche Adresse und der bestehende QR-Code bleiben unverändert.

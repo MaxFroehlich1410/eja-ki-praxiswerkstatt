@@ -22,3 +22,9 @@
 .site-header nav{gap:21px}
 @media(max-width:850px){.site-header nav{gap:13px}.documents-card-content h2{font-size:32px}}
 @media(max-width:620px){.site-header nav{gap:8px}.documents-card-content{gap:18px;align-items:flex-start;padding:22px 0}.document-symbol{width:49px;height:68px;font-size:27px;border-radius:5px;margin-top:5px}.document-symbol span{font-size:6px}.documents-card-content h2{font-size:29px}.documents-card-content p{font-size:11px}.documents-card .card-bottom{align-items:flex-start}.documents-card .card-bottom>span{max-width:170px}.site-header nav a{padding-left:2px;padding-right:2px}}
+
+/* Compact document exercise: one briefing, optional support. */
+.compact-help details:first-child{border-top:0;padding-top:0}.compact-document .claim-list{margin-top:15px;padding-left:22px}.compact-document .claim-list li{line-height:1.7}.compact-document .step{padding:17px 0}.compact-document #ergebnis{scroll-margin-top:110px}
+
+/* Short instructions for excursion and grant, with the existing task colors. */
+.compact-task .step{padding:17px 0}.compact-task #ergebnis{scroll-margin-top:110px}.working-note{color:var(--muted);font-size:11px!important}.compact-task .step ul{margin-top:10px}.compact-task .step li{line-height:1.8}

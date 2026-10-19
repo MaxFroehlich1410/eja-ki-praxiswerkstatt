@@ -1,23 +1,23 @@
-# Aufgabe 2: Aus eigenen Stichpunkten wird ein Antrag
+# Aufgabe 3: Aus eigenen Stichpunkten wird ein Antrag
 
-20 Minuten plus Austausch. Fiktive Workshop-Simulation, keine echte Einreichung.
+20 Minuten Einzelarbeit plus gemeinsamer Austausch. Bearbeite alle Schritte allein, mit eigenen Stichpunkten, eigenem KI-Dialog und eigenem Ergebnis. Fiktive Workshop-Simulation, keine echte Einreichung.
 Nutzen: eigene Inhalte mit KI für ein Stiftungsgremium strukturieren, formulieren und gezielt überarbeiten.
 
 ## 1. Vorbereiteter Rahmen
 - Fiktiver Träger: Jugendwerk Miteinander München e. V., gemeinnützige Jugendhilfe.
 - 20 Jugendliche, 12–17 Jahre; drei Termine in München innerhalb von höchstens acht Wochen.
 - Vorbereitete Musterfinanzierung: 2.000 Euro Gesamtkosten, 400 Euro Eigenmittel (inklusive 200 Euro Spende), 1.600 Euro beantragte Förderung.
-- Thema, Aktivitäten, Ziel und Mitgestaltung entscheidet ihr selbst.
+- Thema, Aktivitäten, Ziel und Mitgestaltung entscheidest du selbst.
 - Die PDF-Faktenbasis enthält den vorbereiteten Förderkontext und die Musterfinanzierung. Das Originalformular ist eine Referenz. Keine eigene Förderrecherche oder PDF-Analyse nötig.
 
 ## 2. Sechs bis acht eigene Stichpunkte – vor dem KI-Einsatz
-- Welchen konkreten Bedarf sehen wir?
-- Welche Jugendlichen wollen wir erreichen?
-- Was ist unser eigenes Ziel?
+- Welchen konkreten Bedarf sehe ich?
+- Welche Jugendlichen will ich erreichen?
+- Was ist mein eigenes Ziel?
 - Was passiert bei den drei Terminen?
 - Wie gestalten die Jugendlichen mit?
-- Woran prüfen wir den Erfolg?
-- Welche Ressourcen und Grenzen müssen wir berücksichtigen?
+- Woran prüfe ich den Erfolg?
+- Welche Ressourcen und Grenzen muss ich berücksichtigen?
 - Welche Angaben fehlen noch?
 
 ## 3. Erster Entwurf mit KI
@@ -36,7 +36,7 @@ Erster Entwurf:
 ## 4. Eigene Bewertung und zwei gezielte Änderungsaufträge
 Workshopkriterien: konkreter Bedarf, nachvollziehbare Wirkung, echte Jugendbeteiligung, umsetzbare Aktivitäten, überprüfbares Ziel.
 
-| Kriterium / konkrete Schwachstelle | Unser eigener Änderungsauftrag an die KI | Was soll dadurch besser werden? |
+| Kriterium / konkrete Schwachstelle | Mein eigener Änderungsauftrag an die KI | Was soll dadurch besser werden? |
 |---|---|---|
 | 1. | | |
 | 2. | | |
@@ -56,11 +56,11 @@ Zeichen:
 Endfassung:
 Zeichen:
 
-## 6. Ein Vorher-Nachher-Beispiel und eure Begründung
+## 6. Ein Vorher-Nachher-Beispiel und meine Begründung
 Auszug aus dem ersten Entwurf:
 Überarbeiteter Auszug:
 Warum ist der neue Text fachlich und sprachlich besser?
-Welche Formulierung oder Behauptung habt ihr selbst verändert, verworfen oder ausdrücklich bestätigt?
+Welche Formulierung oder Behauptung habe ich selbst verändert, verworfen oder ausdrücklich bestätigt?
 Welche Angaben bleiben offen?
 
 Keinen vollständigen Antrag ausfüllen oder einreichen. Keine echten Bank-, Steuer- oder Personendaten verwenden. Keine Förderbedingungen oder Zusagen erfinden. Eine eigene Gesamtkalkulation gehört nicht zum Auftrag.

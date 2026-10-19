@@ -1,6 +1,6 @@
-# Aufgabe 3: Was steht wirklich im Dokument?
+# Aufgabe 1: Was steht wirklich im Dokument?
 
-20 Minuten plus Austausch. Ausschließlich das fiktive siebenseitige PDF verwenden. Lest Seite 1 selbst. Prüfdatum im Szenario: 04.11.2026.
+20 Minuten Einzelarbeit + 5 Minuten Austausch. Ein PDF mit insgesamt 7 Seiten: Seite 1 enthält den Auftrag im Szenario, Seiten 2–7 die Hausunterlagen und spätere E-Mail. Lies Seite 1 selbst; lade dann die vollständige Datei hoch. Prüfdatum: 04.11.2026.
 
 ## 1. Fünf Aussagen mit KI prüfen
 Die Aussagen sind Prüfbehauptungen, keine vorgegebenen Fakten.
@@ -9,32 +9,41 @@ Seite, Abschnitt und kurzen Originalbeleg nennen. Spätere Änderungen berücksi
 
 | Prüfbehauptung | Status | Seite / Abschnitt / kurzer Originalbeleg | Belegte Korrektur oder genaue Informationslücke |
 |---|---|---|---|
-| Der Aufenthalt kostet insgesamt 1.848 Euro. | | | |
-| Das Haus ist für unsere gesamte Gruppe barrierefrei nutzbar. | | | |
+| Die geplante Ankunft passt sowohl zum Zeitfenster der Zimmerübergabe als auch zum Beginn der enthaltenen Verpflegung. | | | |
 | Der Gruppenraum steht am Samstag durchgehend zur Verfügung. | | | |
+| Das Haus ist für unsere gesamte Gruppe barrierefrei nutzbar. | | | |
+| Für Bettwäsche und Endreinigung sind zusammen 376 Euro zusätzlich zur Grundpauschale einzuplanen. | | | |
 | Die besondere Verpflegung ist bereits bestätigt. | | | |
-| Die Kaution belastet unser verfügbares Budget nicht. | | | |
 
 ## 2. Drei eigene Fragen an das PDF
 Die Fragen sollen die fünf Vorgaben nicht lediglich wiederholen.
 
-| Unsere Frage | KI-Antwort | Fundstelle mit kurzem Beleg oder genaue Informationslücke |
+| Meine Frage | KI-Antwort | Fundstelle mit kurzem Beleg oder genaue Informationslücke |
 |---|---|---|
 | 1. | | |
 | 2. | | |
 | 3. | | |
 
-## 3. Zwei Eigenprüfungen im Original
-Lest die Fundstellen selbst nach. Mindestens eine Prüfung muss ältere und spätere Angaben vergleichen. Korrekte KI-Antworten dürfen bestätigt werden; Fehler nicht erfinden.
+## 3. Alle KI-Antworten im Original prüfen
+Prüfe jede Antwort samt Kontext: zu den fünf Aussagen, zu deinen drei eigenen Fragen und zu allen Nachfragen oder Überarbeitungen. Vergleiche bei mindestens einer Prüfung ältere und spätere Angaben. Korrekte Antworten bestätigen; Fehler nicht erfinden. Ergänze für jede weitere Antwort eine Zeile.
 
-| KI-Aussage | Selbst gelesene Fundstelle(n) | Eigenes Ergebnis: bestätigt, korrigiert oder offen | Begründung |
+| KI-Antwort / Aussage | Selbst gelesene Fundstelle(n) und Kontext | Mein Urteil: bestätigt / korrigiert / offen | Begründung / Korrektur / fehlende Information |
 |---|---|---|---|
-| 1. | | | |
-| 2. (einschließlich Dokumentstände) | | | |
+| Aussage 1 | | | |
+| Aussage 2 | | | |
+| Aussage 3 | | | |
+| Aussage 4 | | | |
+| Aussage 5 | | | |
+| Eigene Frage 1 | | | |
+| Eigene Frage 2 | | | |
+| Eigene Frage 3 | | | |
+| Weitere Antwort / Überarbeitung | | | |
+
+Mindestens eine Prüfung älterer und späterer Angaben (Zeile / Fundstellen):
 
 ## Zum Austausch
 - Welcher Beleg war entscheidend?
 - Welche Information blieb offen oder wurde später geändert?
-- Was hat unsere eigene Kontrolle geklärt?
+- Was hat meine eigene Kontrolle geklärt?
 
 Die Aufenthaltsanforderungen sind Kontext. Eine vollständige Kostenrechnung, ein Fristenplan und eine Buchungsentscheidung gehören nicht zum Auftrag. Keine Internetrecherche, Buchung oder Nachricht.

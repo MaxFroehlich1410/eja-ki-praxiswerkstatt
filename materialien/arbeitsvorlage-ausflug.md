@@ -1,18 +1,20 @@
-# Aufgabe 1: Ein durchführbarer Gruppenausflug
+# Aufgabe 2: Ein durchführbarer Gruppenausflug
 
-## Unsere eigene Ausgangsidee
+Einzelarbeit · 20 Minuten plus gemeinsamer Austausch. Bearbeite alle Schritte allein, führe deinen eigenen KI-Dialog und halte dein eigenes Ergebnis fest. Die Jugendgruppe und ihre Betreuung gehören zum Szenario.
+
+## Meine eigene Ausgangsidee
 - Was sollen die Jugendlichen erleben oder mitnehmen?
-- Welche Bedürfnisse müssen wir berücksichtigen?
+- Welche Bedürfnisse muss ich berücksichtigen?
 - Konkretes Datum und Treffpunkt:
-- Unsere Rollen in der Arbeitsgruppe:
+- Meine nächsten Arbeitsschritte:
 
-## Zwei Möglichkeiten und unsere Entscheidung
+## Zwei Möglichkeiten und meine Entscheidung
 | Möglichkeit | Dafür spricht | Dagegen spricht | Geprüfte Quelle |
 |---|---|---|---|
 | A | | | |
 | B | | | |
 
-Unsere begründete Entscheidung:
+Meine begründete Entscheidung:
 
 ## Quellenprüfung
 Alle entscheidungsrelevanten Angaben selbst prüfen. Mindestens drei Schlüsselfakten dokumentieren.
@@ -53,7 +55,7 @@ Fehler im ersten Bildentwurf:
 Gezielte Überarbeitung:
 Stimmen Titel, Datum, Treffpunkt, Rückkehr und Kosten mit dem Plan überein?
 
-## Unsere Verantwortung
-Eine KI-Empfehlung, die wir korrigiert oder verworfen haben, und warum:
+## Meine Verantwortung
+Eine KI-Empfehlung, die ich korrigiert oder verworfen habe, und warum:
 Noch notwendige Buchungen / Bestätigungen / fachliche Prüfungen:
-Würden wir diesen Ausflug wirklich so durchführen?
+Würde ich diesen Ausflug wirklich so durchführen?
