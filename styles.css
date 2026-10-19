@@ -8,3 +8,17 @@
 @media(max-width:620px){html{scroll-padding-top:85px}.task-card h2{font-size:clamp(25px,8.1vw,35px)}.panel{scroll-margin-top:0}.card-bottom{gap:10px}.card-bottom strong{flex-shrink:0}}
 @media(prefers-reduced-motion:reduce){html{scroll-behavior:auto}*{transition:none!important}}
 @media print{body{background:white;color:#111;font:11px/1.5 Arial,sans-serif}.site-header,.site-footer,.task-sidebar,.button-row,.breadcrumb,.closing,#toast,dialog,.check-progress,.progress-track{display:none!important}.container{max-width:none;padding:0}.task-layout{display:block}.task-hero,.panel,.notice{break-inside:avoid;border:1px solid #ccc;background:white!important;padding:16px;margin-bottom:15px}.task-hero h1{font-size:32px}.panel h2{font-size:24px}.hero-number{display:none}details{display:none}details[open]{display:block}.task-content p,.task-content li{font-size:11px}.download{background:white}.download-arrow{display:none}.hero{padding-top:20px}.task-grid{gap:15px}.task-card{background:white!important}.work-principle{margin:20px 0}.check input{appearance:none;width:12px;height:12px;border:1px solid #888}.check input:checked:after{content:'✓';font-size:10px;display:block;line-height:10px}}
+
+/* Dokumentanalyse: gleicher Aufbau, warmer Pfirsichton. */
+.task-card.peach,.task-hero.peach,.closing.peach{background:var(--peach)}
+.documents-card{grid-column:1/-1;padding-bottom:23px}
+.documents-card-content{display:flex;align-items:center;gap:28px;padding:23px 0}
+.documents-card-content h2{font-size:37px;margin-bottom:10px}
+.documents-card-content p{max-width:650px;margin:0}
+.document-symbol{flex-shrink:0;width:87px;height:108px;display:flex;flex-direction:column;align-items:center;justify-content:center;border:1.5px solid #9c795e;border-radius:8px;background:#fffef980;font:38px/1.3 Georgia,serif;transform:rotate(-5deg)}
+.document-symbol span{font:600 8px/1.5 Poppins,Arial,sans-serif;letter-spacing:.18em;margin-top:5px}
+.peach-accent .step-number{background:var(--peach)}
+.peach-accent .freedom{background:#fbf2ea;border-color:#d5b99f}
+.site-header nav{gap:21px}
+@media(max-width:850px){.site-header nav{gap:13px}.documents-card-content h2{font-size:32px}}
+@media(max-width:620px){.site-header nav{gap:8px}.documents-card-content{gap:18px;align-items:flex-start;padding:22px 0}.document-symbol{width:49px;height:68px;font-size:27px;border-radius:5px;margin-top:5px}.document-symbol span{font-size:6px}.documents-card-content h2{font-size:29px}.documents-card-content p{font-size:11px}.documents-card .card-bottom{align-items:flex-start}.documents-card .card-bottom>span{max-width:170px}.site-header nav a{padding-left:2px;padding-right:2px}}
