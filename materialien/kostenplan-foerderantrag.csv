@@ -1,14 +1,14 @@
 Bereich;Posten;Menge;Einzelpreis in EUR;Gesamt in EUR;Status oder Quelle
-Ausgabe;Material;;;;
-Ausgabe;Honorare;;;;
-Ausgabe;Raum oder Technik;;;;
-Ausgabe;Weitere notwendige Kosten;;;;
-Ausgabe;Gesamtkosten;;;;Höchstens 2000 EUR - Übungsvorgabe
-Finanzierung;Feste Eigenmittel;1;200,00;200,00;Gesichert im Übungsszenario
-Finanzierung;Spende;1;200,00;200,00;Gesichert im Übungsszenario - Teil der 400 EUR Eigenmittel
-Finanzierung;Beantragte BuntStiftung-Förderung;;;;Beantragt - nicht bewilligt
-Finanzierung;Weitere Mittel;;;;Gesichert oder beantragt eindeutig kennzeichnen
-Finanzierung;Finanzierung gesamt;;;;
-Prüfung;Differenz Gesamtkosten minus Finanzierung;;;;Muss in der Planung 0 ergeben - keine automatische Berechnung
+Ausgabe;Honorare;8 Stunden;100,00;800,00;Fiktiver Planungswert
+Ausgabe;Material;20 Personen;25,00;500,00;Fiktiver Planungswert
+Ausgabe;Raum;3 Termine;120,00;360,00;Fiktiver Planungswert
+Ausgabe;Technik;2 Nutzungstage;120,00;240,00;Fiktiver Planungswert
+Ausgabe;Öffentlichkeitsarbeit;1 Pauschale;100,00;100,00;Fiktiver Planungswert
+Ausgabe;Gesamtkosten;;;2000,00;Vorbereitete Musterfinanzierung
+Finanzierung;Feste Eigenmittel;1;200,00;200,00;Im Szenario gesichert
+Finanzierung;Spende;1;200,00;200,00;Im Szenario gesichert - Teil der 400 EUR Eigenmittel
+Finanzierung;Beantragte BuntStiftung-Förderung;1;1600,00;1600,00;Beantragt - nicht bewilligt
+Finanzierung;Finanzierung gesamt;;;2000,00;400 EUR gesichert und 1600 EUR beantragt
+Prüfung;Differenz Gesamtkosten minus Finanzierung;;;0,00;Planerisch ausgeglichen - keine Förderzusage
 
-Hinweis;Keine Formeln hinterlegt. Summen selbst prüfen. Eine ausgeglichene Planung ersetzt keine Förderzusage.;;;;
+Hinweis;Alle Werte sind fiktive Workshopvorgaben. Keine Angebote oder Aussagen über die Förderfähigkeit. Eigene Kostenplanung ist kein Pflichtteil dieser Schreibaufgabe.;;;;

@@ -49,6 +49,16 @@ Lokal: Desktop- und Mobilansicht, beide Aufgaben, Abschnittslinks, Material-Down
 
 Die zusätzliche Aufgabe ist zunächst zur Sichtprüfung lokal ergänzt. Noch nicht pushen oder veröffentlichen, bevor der Nutzer die Fassung geprüft hat. Die bisherige Live-Seite und der QR-Code bleiben unverändert.
 
-`document-task.js` enthält Aufgabenstellung, Belegpflicht, Ablauf für 25 Minuten, Hilfen und Abschlusscheck. Das siebenseitige fiktive PDF in `materialien/freizeithaus-bergwiese-angebot-7-seiten.pdf` enthält: internen Auftrag, Angebot, Zimmer/Zugang, Raumplan/Technik, Bedingungen, Preisblatt und eine spätere korrigierende E-Mail. Alle Namen, Daten, Bedingungen und Preise sind erfunden. Der Prüfzeitpunkt im Szenario ist der 04.11.2026.
+`document-task.js` enthält Aufgabenstellung, Belegpflicht, Ablauf für 20 Minuten, Hilfen und Abschlusscheck. Das siebenseitige fiktive PDF in `materialien/freizeithaus-bergwiese-angebot-7-seiten.pdf` enthält: internen Auftrag, Angebot, Zimmer/Zugang, Raumplan/Technik, Bedingungen, Preisblatt und eine spätere korrigierende E-Mail. Alle Namen, Daten, Bedingungen und Preise sind erfunden. Der Prüfzeitpunkt im Szenario ist der 04.11.2026.
 
 Die Antwortvorlage liegt unter `materialien/arbeitsvorlage-dokumentanalyse.md`. Keine Musterlösung auf die Teilnehmerseite stellen. Die vorhandenen Aufgaben und das 600-Euro-Ausflugsbudget bleiben erhalten.
+
+## Überarbeitung: getrennte KI-Kompetenzen
+
+Lokal überarbeitet, noch nicht veröffentlicht:
+- Aufgabe 1: offene Recherche, iteratives Planen und Bildgestaltung; 600/60-EUR-Budget bleibt erhalten.
+- Aufgabe 2: vorbereitete Faktenbasis und ausgefüllte Musterfinanzierung; zuerst eigene Stichpunkte, dann drei Textfelder (600/900/600 Zeichen inklusive Leerzeichen), eigene Kriterienprüfung und zwei konkrete Änderungsaufträge. Keine verpflichtende PDF-Analyse oder Förderrecherche. `grant-task.js` enthält die Aufgabe. `materialien/zeichencounter.html` zählt die Zeichen lokal im Browser.
+- Aufgabe 3: fünf Aussagen mit Belegen prüfen, drei eigene Fragen ans PDF und zwei Prüfungen im Original; keine vollständige Kalkulation, kein Fristenplan oder Entscheidungstext. Das siebenseitige Quelldokument bleibt erhalten.
+- Geänderte Checklisten verwenden eigene Versionsschlüssel, damit alte Häkchen keine anderen Anforderungen als erledigt markieren.
+
+Die Zeichenlimits und Bewertungskriterien sind ausdrücklich Workshopvorgaben. Kein neuer Live-Deploy ohne Freigabe.

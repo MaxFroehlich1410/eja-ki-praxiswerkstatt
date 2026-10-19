@@ -1,62 +1,66 @@
-# Aufgabe 2: Fundierter Förderantrag – Workshop-Simulation
+# Aufgabe 2: Aus eigenen Stichpunkten wird ein Antrag
 
-Keine echte Einreichung. Unbekannte Daten als [OFFEN] markieren. Keine Bankdaten, Bescheide, Unterschriften oder Förderzusagen erfinden.
+20 Minuten plus Austausch. Fiktive Workshop-Simulation, keine echte Einreichung.
+Nutzen: eigene Inhalte mit KI für ein Stiftungsgremium strukturieren, formulieren und gezielt überarbeiten.
 
-## 1. Dokumentanalyse
-| Gefragte Angabe / Anlage | Datei und Seite / offizielle URL | Selbst geprüft? | Verfügbar oder offen? |
-|---|---|---|---|
-| | | | |
+## 1. Vorbereiteter Rahmen
+- Fiktiver Träger: Jugendwerk Miteinander München e. V., gemeinnützige Jugendhilfe.
+- 20 Jugendliche, 12–17 Jahre; drei Termine in München innerhalb von höchstens acht Wochen.
+- Vorbereitete Musterfinanzierung: 2.000 Euro Gesamtkosten, 400 Euro Eigenmittel (inklusive 200 Euro Spende), 1.600 Euro beantragte Förderung.
+- Thema, Aktivitäten, Ziel und Mitgestaltung entscheidet ihr selbst.
+- Die PDF-Faktenbasis enthält den vorbereiteten Förderkontext und die Musterfinanzierung. Das Originalformular ist eine Referenz. Keine eigene Förderrecherche oder PDF-Analyse nötig.
 
-Unterschiede zwischen Originalformular (Stand 06/2013) und aktueller Förderseite:
-Welche Bedingungen stammen nur aus dem Übungsdossier?
+## 2. Sechs bis acht eigene Stichpunkte – vor dem KI-Einsatz
+- Welchen konkreten Bedarf sehen wir?
+- Welche Jugendlichen wollen wir erreichen?
+- Was ist unser eigenes Ziel?
+- Was passiert bei den drei Terminen?
+- Wie gestalten die Jugendlichen mit?
+- Woran prüfen wir den Erfolg?
+- Welche Ressourcen und Grenzen müssen wir berücksichtigen?
+- Welche Angaben fehlen noch?
 
-## 2. Fördercheck
-- Warum passt unser Träger zur Förderung?
-- Warum passen Zielgruppe und Projekt?
-- Welche Originalquelle belegt die jeweilige Aussage?
-- Welche Bedingungen sind nicht genannt und müssen wir nachfragen?
+## 3. Erster Entwurf mit KI
+Zielgruppe des Textes: Stiftungsgremium. Verständlich und konkret formulieren; keine Erfahrungen, Wirkungsnachweise, Zahlen oder Partnerzusagen erfinden.
+Alle Zeichenlimits gelten inklusive Leerzeichen. Gliederung und Limits sind Workshopvorgaben, keine Bedingungen der Stiftung.
 
-## 3. Antworten entlang des Originalformulars
-### Antragstellende Organisation
-- Name: Jugendwerk Miteinander München e. V. (erfundener Übungsträger)
-- Anschrift / Homepage / Bankverbindung: [OFFEN – Übungsplatzhalter]
-- Zwecke der Organisation: gemeinnützige Jugendhilfe und außerschulische Bildung
-- Gemeinnützigkeit: im Übungsszenario gegeben; Nachweis für echte Einreichung nötig
-- Ansprechperson / Funktion / Kontakt: [OFFEN – keine realen Daten verwenden]
+### Hintergrund und Zielgruppe – höchstens 600 Zeichen
+Erster Entwurf:
 
-### Das Projekt
-- Projektname:
-- Hintergrund / Motivation:
-- Zielgruppe:
-- Projektziel:
-- Projektzeitraum:
-- Ort der Umsetzung:
-- Beteiligte Partner (Planung, keine erfundene Zusage):
+### Projektziel und Ablauf – höchstens 900 Zeichen
+Erster Entwurf:
 
-### Finanzierung
-- Gesamt-Projektsumme:
-- Gesicherte Eigenmittel: 400 Euro inklusive 200 Euro bestätigter Spende
-- Bei der BuntStiftung beantragte Summe (nicht bewilligt):
-- Weitere bereits beantragte Zuschüsse (keine im Dossier vorgegeben):
-- Wofür verwenden wir die beantragten Mittel?
-- Separater Kosten- und Finanzierungsplan:
+### Beteiligung und Erfolgskontrolle – höchstens 600 Zeichen
+Erster Entwurf:
 
-### Erfolgsmessung und Kommunikation
-- Wie beteiligen wir die Jugendlichen?
-- Wie stellen wir das Projekt nach außen dar?
-- Wie überprüfen wir den Erfolg konkret?
-- Was muss die Stiftung sonst wissen?
+## 4. Eigene Bewertung und zwei gezielte Änderungsaufträge
+Workshopkriterien: konkreter Bedarf, nachvollziehbare Wirkung, echte Jugendbeteiligung, umsetzbare Aktivitäten, überprüfbares Ziel.
 
-## 4. Projektbeschreibung – höchstens eine Seite
-Die obigen Inhalte dürfen verwendet werden. Beschreibt Bedarf, Beteiligung, Aktivitäten, Zeitplan, Ressourcen und überprüfbaren Nutzen.
-
-## 5. Offene Punkte und Anlagen
-| Fehlende Angabe / Unterlage / Klärung | Warum nötig? | Vor einer echten Einreichung zu erledigen durch |
+| Kriterium / konkrete Schwachstelle | Unser eigener Änderungsauftrag an die KI | Was soll dadurch besser werden? |
 |---|---|---|
-| | | |
+| 1. | | |
+| 2. | | |
 
-## 6. Eigene Prüfung
-- Rechenergebnisse und Summen selbst kontrolliert:
-- Inhaltliche Aussage mit Originalquelle geprüft:
-- Korrigierte oder verworfene KI-Empfehlung und unsere Begründung:
-- Ist das Projekt so wirklich umsetzbar?
+## 5. Überarbeitete Endfassung
+Zeichen mit einem Zähler kontrollieren: materialien/zeichencounter.html auf der Website, alternativ im eigenen Textprogramm.
+
+### Hintergrund und Zielgruppe – höchstens 600 Zeichen inklusive Leerzeichen
+Endfassung:
+Zeichen:
+
+### Projektziel und Ablauf – höchstens 900 Zeichen inklusive Leerzeichen
+Endfassung:
+Zeichen:
+
+### Beteiligung und Erfolgskontrolle – höchstens 600 Zeichen inklusive Leerzeichen
+Endfassung:
+Zeichen:
+
+## 6. Ein Vorher-Nachher-Beispiel und eure Begründung
+Auszug aus dem ersten Entwurf:
+Überarbeiteter Auszug:
+Warum ist der neue Text fachlich und sprachlich besser?
+Welche Formulierung oder Behauptung habt ihr selbst verändert, verworfen oder ausdrücklich bestätigt?
+Welche Angaben bleiben offen?
+
+Keinen vollständigen Antrag ausfüllen oder einreichen. Keine echten Bank-, Steuer- oder Personendaten verwenden. Keine Förderbedingungen oder Zusagen erfinden. Eine eigene Gesamtkalkulation gehört nicht zum Auftrag.

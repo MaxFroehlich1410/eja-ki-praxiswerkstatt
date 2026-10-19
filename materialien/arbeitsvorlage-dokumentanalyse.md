@@ -1,70 +1,40 @@
-# Dokumentanalyse: Können wir dieses Angebot annehmen?
+# Aufgabe 3: Was steht wirklich im Dokument?
 
-Fiktives Szenario. Prüfdatum ist der 04.11.2026. Ausschließlich das siebenseitige PDF verwenden. Nichts buchen oder versenden. Keine realen Personen- oder Gesundheitsdaten eingeben.
+20 Minuten plus Austausch. Ausschließlich das fiktive siebenseitige PDF verwenden. Lest Seite 1 selbst. Prüfdatum im Szenario: 04.11.2026.
 
-## 1. Unser eigener Prüfmaßstab
-Welche Entscheidung soll die Teamleitung treffen?
-Welche Anforderungen sind unverzichtbar? Zuerst Seite 1 selbst lesen.
+## 1. Fünf Aussagen mit KI prüfen
+Die Aussagen sind Prüfbehauptungen, keine vorgegebenen Fakten.
+Status: belegt / widerlegt / nicht ausreichend beantwortbar.
+Seite, Abschnitt und kurzen Originalbeleg nennen. Spätere Änderungen berücksichtigen.
 
-## 2. Anforderungsmatrix – mindestens acht Kriterien
-Zugang, Verpflegung, Samstagraum, Sonntagraum, Technik und Budget müssen enthalten sein.
-Status: belegt passend / belegt unpassend / offen / widersprüchlich bzw. überholt.
-Eine spätere ausdrückliche Korrektur ist beim Status zu berücksichtigen.
-
-| Anforderung des Teams | Aussage des Hauses | Status | Seite + Abschnitt + kurzer Textbeleg | Unsere Bewertung / nötiger Schritt |
-|---|---|---|---|---|
-| | | | | |
-
-## 3. Kosten und Geldfluss
-Für 21 Personen und zwei Übernachtungen rechnen. Alle benötigten Leistungen aus dem internen Auftrag einbeziehen.
-
-| Position | Menge und Einzelpreis | Gesamt | Verbindlich oder Planungswert? | Seite / Abschnitt |
-|---|---|---|---|---|
-| Unterkunft / Verpflegung | | | | |
-| Benötigte Zusatzleistungen (einzeln ergänzen) | | | | |
-| Hin- und Rückfahrt | | | | |
-| Summe der Verbrauchskosten | | | | |
-
-Die folgenden Zeilen getrennt von den Verbrauchskosten betrachten:
-
-| Kategorie | Betrag | Zahlungs- / Rückgabezeitpunkt | Bedeutung für unser verfügbares Geld | Fundstelle |
-|---|---|---|---|---|
-| Unberührte Reserve | | | | |
-| Anzahlung, die später verrechnet wird | | | | |
-| Rückzahlbare Kaution | | | | |
-
-Gesamtbudget im internen Auftrag:
-Passen die geplanten Verbrauchskosten inklusive unberührter Reserve ins Budget?
-Reicht das zwischenzeitlich verfügbare Geld auch bei gebundener Kaution?
-Welche Leistungen und damit welche Planungswerte sind noch nicht bestätigt?
-
-## 4. Maßnahmen- und Fristenplan – mindestens fünf wichtige Termine
-Eigene interne Termine ausdrücklich als eigene Planung kennzeichnen.
-
-| Termin | Handlung | Verantwortliche Rolle | Quelle oder eigene Planung | Folge bei Versäumnis laut Dokument / offen |
-|---|---|---|---|---|
-| | | | | |
-
-## 5. Fünf priorisierte Rückfragen
-Die Frage muss im Dokument tatsächlich noch offen sein.
-
-| Priorität | Konkrete Frage | Warum entscheidend? | Bezug im PDF |
+| Prüfbehauptung | Status | Seite / Abschnitt / kurzer Originalbeleg | Belegte Korrektur oder genaue Informationslücke |
 |---|---|---|---|
-| 1 | | | |
-| 2 | | | |
-| 3 | | | |
-| 4 | | | |
-| 5 | | | |
+| Der Aufenthalt kostet insgesamt 1.848 Euro. | | | |
+| Das Haus ist für unsere gesamte Gruppe barrierefrei nutzbar. | | | |
+| Der Gruppenraum steht am Samstag durchgehend zur Verfügung. | | | |
+| Die besondere Verpflegung ist bereits bestätigt. | | | |
+| Die Kaution belastet unser verfügbares Budget nicht. | | | |
 
-## 6. Drei Eigenprüfungen im Original
-Je ein Beispiel zu Kosten, Frist und unverzichtbarer Teilnahmeanforderung. Korrekte KI-Aussagen dürfen bestätigt werden. Keine Fehler erfinden.
+## 2. Drei eigene Fragen an das PDF
+Die Fragen sollen die fünf Vorgaben nicht lediglich wiederholen.
 
-| KI-Aussage | Seite / Abschnitt / kurzer Beleg | Unser Prüfergebnis: bestätigt, korrigiert oder offen | Auswirkung auf die Entscheidung |
+| Unsere Frage | KI-Antwort | Fundstelle mit kurzem Beleg oder genaue Informationslücke |
+|---|---|---|
+| 1. | | |
+| 2. | | |
+| 3. | | |
+
+## 3. Zwei Eigenprüfungen im Original
+Lest die Fundstellen selbst nach. Mindestens eine Prüfung muss ältere und spätere Angaben vergleichen. Korrekte KI-Antworten dürfen bestätigt werden; Fehler nicht erfinden.
+
+| KI-Aussage | Selbst gelesene Fundstelle(n) | Eigenes Ergebnis: bestätigt, korrigiert oder offen | Begründung |
 |---|---|---|---|
-| Kosten: | | | |
-| Frist: | | | |
-| Teilnahmeanforderung: | | | |
+| 1. | | | |
+| 2. (einschließlich Dokumentstände) | | | |
 
-## 7. Entscheidung für die Teamleitung – höchstens 120 Wörter
-Annehmen / nur nach Klärung annehmen / ablehnen.
-Die Gründe, wichtigsten Belege und unverzichtbaren Bedingungen nennen.
+## Zum Austausch
+- Welcher Beleg war entscheidend?
+- Welche Information blieb offen oder wurde später geändert?
+- Was hat unsere eigene Kontrolle geklärt?
+
+Die Aufenthaltsanforderungen sind Kontext. Eine vollständige Kostenrechnung, ein Fristenplan und eine Buchungsentscheidung gehören nicht zum Auftrag. Keine Internetrecherche, Buchung oder Nachricht.
